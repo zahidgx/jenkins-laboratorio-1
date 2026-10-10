@@ -1,0 +1,13 @@
+{
+  "job": "pipe-hola-mundo",
+  "build": 1,
+  "result": "SUCCESS",
+  "timestamp": "2026-10-10T04:01:54.141Z",
+  "durationMs": 30,
+  "jenkinsVersion": "2.516.3",
+  "javaVersion": "17.0.20",
+  "environment": "Entorno Linux de trabajo de ChatGPT",
+  "startup": "Jenkins WAR ejecutado con Java; Docker no fue utilizado en esta verificación",
+  "localUrl": "http://127.0.0.1:8081/job/pipe-hola-mundo/1/",
+  "dockerValidation": "Pendiente de ejecución en Docker"
+}
